@@ -233,7 +233,7 @@ header svg.line, header svg .line{fill:none;stroke:var(--header-icon)}
 .blogPosts{display:flex;flex-wrap:wrap; position:relative;width:calc(100% + 20px);left:-10px}
 .blogPosts.empty{width:100%;left:0}
 .blogPosts.empty ~ .blogPager{justify-content:flex-start}
-.blogPosts .hentry{display:block;position:relative; width:calc(33.333% - 20px); margin-left:10px;margin-right:10px;margin-bottom:40px; padding-bottom:38px}
+.blogPosts .hentry{display:block;position:relative; width:calc(33.333% - 20px); margin-left:10px;margin-right:10px;margin-bottom:40px; padding-bottom:38px; border-radius:8px; box-shadow: 0 10px 20px 0 rgb(30 30 30 / 7%);}
 .blogPosts .hentry.noInfo, .blogPosts .hentry.product, .blogPosts div.hentry, .blogPosts .hentry.noComment{padding-bottom:0}
 .blogPosts .hentry.noAd .widget, .Blog ~ .HTML{display:none}
 .onItem .blogPosts{display:block; width:100%;left:0}
