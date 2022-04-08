@@ -1,0 +1,22 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "name": "Naruto",
+      "episode": "1",
+      "link": "https://cartoon-nation.in/"
+    },
+    {
+      "id": 2,
+      "name": "Naruto",
+      "episode": "2",
+      "link": "https://cartoon-nation.in/"
+    },
+    {
+      "id": 3,
+      "name": "Naruto",
+      "episode": "3",
+      "link": "https://cartoon-nation.in/"
+    }
+  ]
+}
