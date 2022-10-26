@@ -1,0 +1,48 @@
+	{
+	  "categories": [
+		{
+		  "name": "Tech Dev",
+		  "id": "1",
+		  "link": "#"
+		},
+		{
+		  "name": "Digital Art",
+		  "episode": "2",
+		  "link": ""
+		},
+		{
+		  "name": "Musical Art",
+		  "episode": "3",
+		  "link": "#"
+		}
+		,
+		{
+		  "name": "Valueables",
+		  "episode": "4",
+		  "link": "#"
+		}
+	  ],
+	  "collects": [
+	  {
+	  "name": "Blogeen",
+				"type": "Valueables",
+				"url": "#"
+	  },
+	  {
+	  "name": "Portfolio Stack",
+				"type": "Tech Dev",
+				"url": "#"
+				},
+	  {
+	  "name": "Data title",
+				"type": "data category.",
+				"url": "#"
+				},
+	  {
+	  "name": "Data title",
+				"type": "data category.",
+				"url": "#"
+				}
+	  
+	  ]
+	}
