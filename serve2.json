@@ -7,21 +7,22 @@
 		},
 		{
 		  "name": "Digital Art",
-		  "episode": "2",
+		  "id": "2",
 		  "link": ""
 		},
 		{
 		  "name": "Musical Art",
-		  "episode": "3",
+		  "id": "3",
 		  "link": "#"
 		}
 		,
 		{
 		  "name": "Valueables",
-		  "episode": "4",
+		  "id": "4",
 		  "link": "#"
 		}
 	  ],
+	  
 	  "collects": [
 	  {
 	  "name": "Blogeen",
@@ -45,4 +46,5 @@
 				}
 	  
 	  ]
+	  
 	}
